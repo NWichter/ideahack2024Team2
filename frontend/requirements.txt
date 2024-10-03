@@ -1,0 +1,5 @@
+streamlit==1.39.0
+requests==2.27.0
+python-dotenv==0.19.2
+auth0-python==3.19.0
+altair==4.1.0
